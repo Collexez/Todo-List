@@ -1,6 +1,9 @@
 body{
     background-color: rgba(0, 0, 0, 0.542);
 }
+.bobo{
+    background-color: red;
+}
 .to-do-list{
     font-family: Arial,sans-serif;
     text-align: center;
